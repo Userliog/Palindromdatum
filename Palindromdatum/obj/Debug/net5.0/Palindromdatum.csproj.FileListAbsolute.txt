@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.exe
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.deps.json
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.runtimeconfig.json
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.dll
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\ref\Palindromdatum.dll
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\bin\Debug\net5.0\Palindromdatum.pdb
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.AssemblyInfo.cs
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.dll
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\ref\Palindromdatum.dll
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.pdb
+C:\Users\Admin\Documents\Ny mapp\Palindromdatum\obj\Debug\net5.0\Palindromdatum.genruntimeconfig.cache
